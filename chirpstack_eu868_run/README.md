@@ -1,1 +1,1 @@
-### configuration files for EU868
+##### configuration files for EU868 regional parameters
